@@ -1,4 +1,4 @@
-# eduardavieira
+# Hello World! 
 Sou a Maria Eduarda, estudante de Ciência de dados, tenho 23 anos. Estou estudando pela SoulCode, e terminando graduação de ADS, estou focando nas seguintes tecnologias:
 
 Python;
